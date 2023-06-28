@@ -18,7 +18,9 @@ Before running the script, make sure you have the following:
 
 2. Install the required Python dependencies by running the following command:
 
+```
 pip install -r requirements.txt
+```
 
 ## Usage
 
@@ -36,8 +38,9 @@ pip install -r requirements.txt
 
 5. Run the script by executing the following command:
 
+```
 python google_maps_scraper.py
-
+```
 
 6. The script will scrape the addresses and distances of the places matching the specified keyword within the given radius from the provided address.
 
